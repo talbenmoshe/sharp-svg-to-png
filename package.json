@@ -1,0 +1,24 @@
+{
+  "name": "sharp-svg-to-png",
+  "version": "1.0.0",
+  "description": "A test for converting svg to png with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talbenmoshe/sharp-svg-to-png.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talbenmoshe/sharp-svg-to-png/issues"
+  },
+  "homepage": "https://github.com/talbenmoshe/sharp-svg-to-png#readme",
+  "dependencies": {
+    "sharp": "^0.26.2"
+  }
+}
